@@ -15,7 +15,7 @@ A brief description of your app and its purpose. Explain what problem it solves 
 
 ## Screenshots
 
-![Screenshot 1](path/to/your/screenshot1.png)
+![Screenshot 1](Avacado/Screenshots/Screenshot 1.png)
 ![Screenshot 2](path/to/your/screenshot2.png)
 ![Screenshot 3](path/to/your/screenshot3.png)
 
