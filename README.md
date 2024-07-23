@@ -48,12 +48,10 @@ Provide instructions and examples for using your app. Include code snippets or s
     ```
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 Your Name - [sohann1601@gmail.com](mailto:sohann1601@gmail.com)
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: [https://github.com/sohann0902/Avacado---an-iOS-recipe-app](https://github.com/sohann0902/Avacado---an-iOS-recipe-app)
