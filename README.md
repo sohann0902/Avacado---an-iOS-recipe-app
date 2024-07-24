@@ -5,22 +5,24 @@
 
 ## Description
 
-A brief description of your app and its purpose. Explain what problem it solves or what functionality it provides.
+**Avocado Recipes** is a delightful iOS app dedicated to avocado lovers! Explore a variety of delicious and nutritious avocado-based recipes, ranging from breakfast smoothies to hearty main courses and decadent desserts. Whether you're a seasoned chef or a cooking novice, Avocado Recipes provides step-by-step instructions, ingredient lists, and beautiful photos to inspire your culinary creativity. Dive into the world of avocados and discover new ways to enjoy this versatile fruit every day!
 
-## Features
 
-- Feature 1: Brief description
-- Feature 2: Brief description
-- Feature 3: Brief description
+## Technical Details
+
+**Avocado Recipes** leverages modern iOS development techniques and components to provide a seamless user experience. Here are some of the key technologies and Swift components used:
+
+- **Utilized SwiftUI for building the user interface with a declarative approach.** 
+- **Asynchronous events and data binding between the view and model.** 
+- **Supports the Light / Dark modes with SwiftUI.**
+- **Applied MVVM Architecture to separate concerns and promote a clean codebase.**
+- **Smooth Animations.**
+
 
 ## Screenshots
 
 ![Screenshot 1](Avacado/Screenshots/AvacadoProduct.png)
 
-
-## Usage
-
-Provide instructions and examples for using your app. Include code snippets or screenshots as necessary.
 
 ## Requirements
 
